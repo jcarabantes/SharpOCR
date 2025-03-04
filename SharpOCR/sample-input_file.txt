@@ -1,0 +1,4 @@
+[YOUR_SharpOCR_PATH]\Examples\stock_gs200.jpg
+[YOUR_SharpOCR_PATH]\Examples\password.jpg
+[YOUR_SharpOCR_PATH]\Examples\public_invoice_example.jpg
+[YOUR_SharpOCR_PATH]\Examples\Training 2025.pdf

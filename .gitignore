@@ -1,0 +1,38 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore Visual Studio and VS Code settings
+.vs/
+.vscode/
+
+# Ignore tessdata and input files
+tessdata/
+input_file.txt
+
+# Ignore user-specific files
+*.user
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Ignore dependency caching
+packages/
+.nuget/
+
+# Ignore compiled binaries and executables
+*.exe
+*.dll
+*.pdb
+*.log
+*.cache
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Ignore publish output
+publish/
